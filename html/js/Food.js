@@ -1,3 +1,3 @@
-alert("OK to open MyMeal.com");
+alert("OK to open MyMeal.com hurryup");
 
 
